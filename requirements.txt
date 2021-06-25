@@ -1,0 +1,8 @@
+# Data science packages
+jupyterlab
+matplotlib
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
