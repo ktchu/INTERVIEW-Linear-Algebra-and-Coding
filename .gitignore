@@ -1,0 +1,39 @@
+# --- Project files
+
+# log files
+*.log
+
+# --- Jupyter files
+
+.ipynb_checkpoints
+.jupyter
+!.jupyter/jupyter_notebook_config.py
+nbconvert
+
+# --- Python files
+
+# compiled source
+*.pyc
+
+# testing
+.cache
+.coverage
+.coverage.*
+.pytest_cache
+
+# --- Miscellaneous
+
+# conda
+.conda
+
+# direnv
+.direnv
+.envrc
+
+# autoenv
+.env
+
+.*.swp
+
+# macOS
+.DS_Store*
