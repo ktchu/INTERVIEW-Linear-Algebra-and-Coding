@@ -34,6 +34,14 @@ Generate a plot of the optimal portfolio return vs risk tolerance $\tau$.
 Problem 5
 ---------
 
-Write a function that compute the optimal portfolio weights for a specified risk tolerance $\tau$.
+Write a function that compute the optimal portfolio weights for a specified
+risk tolerance $\tau$.
+
+------------------------------------------------------------------------------
+
+Problem 6
+---------
+
+Write a unit test for the function in Problem 5.
 
 ------------------------------------------------------------------------------
