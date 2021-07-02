@@ -77,7 +77,7 @@ For risk tolerance level $\tau$, derive a matrix equation for the portfolio
 that optimizes return-risk objective
 
 $$
-  f(w_1, w_2, \ldots, w_n) = r_p - \frac{\tau}{2} \sigma_p^2
+  f(w_1, w_2, \ldots, w_n) = E[r_p] - \frac{\tau}{2} \sigma_p^2
 $$
 
 subject to the constraint $\sum_i^n w_i = 1$.
